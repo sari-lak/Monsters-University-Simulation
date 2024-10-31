@@ -1,0 +1,3 @@
+/home/sl4623/advanced-programming-assessment-1-acse-sl4623/build/CMakeFiles/story.dir
+/home/sl4623/advanced-programming-assessment-1-acse-sl4623/build/CMakeFiles/edit_cache.dir
+/home/sl4623/advanced-programming-assessment-1-acse-sl4623/build/CMakeFiles/rebuild_cache.dir

@@ -1,0 +1,57 @@
+[
+{
+  "directory": "/home/sl4623/advanced-programming-assessment-1-acse-sl4623/build",
+  "command": "/usr/bin/c++  -I/home/sl4623/advanced-programming-assessment-1-acse-sl4623/headers -g -std=gnu++11 -o CMakeFiles/story.dir/code/Book.cpp.o -c /home/sl4623/advanced-programming-assessment-1-acse-sl4623/code/Book.cpp",
+  "file": "/home/sl4623/advanced-programming-assessment-1-acse-sl4623/code/Book.cpp"
+},
+{
+  "directory": "/home/sl4623/advanced-programming-assessment-1-acse-sl4623/build",
+  "command": "/usr/bin/c++  -I/home/sl4623/advanced-programming-assessment-1-acse-sl4623/headers -g -std=gnu++11 -o CMakeFiles/story.dir/code/BookStack.cpp.o -c /home/sl4623/advanced-programming-assessment-1-acse-sl4623/code/BookStack.cpp",
+  "file": "/home/sl4623/advanced-programming-assessment-1-acse-sl4623/code/BookStack.cpp"
+},
+{
+  "directory": "/home/sl4623/advanced-programming-assessment-1-acse-sl4623/build",
+  "command": "/usr/bin/c++  -I/home/sl4623/advanced-programming-assessment-1-acse-sl4623/headers -g -std=gnu++11 -o CMakeFiles/story.dir/code/CourseStructure.cpp.o -c /home/sl4623/advanced-programming-assessment-1-acse-sl4623/code/CourseStructure.cpp",
+  "file": "/home/sl4623/advanced-programming-assessment-1-acse-sl4623/code/CourseStructure.cpp"
+},
+{
+  "directory": "/home/sl4623/advanced-programming-assessment-1-acse-sl4623/build",
+  "command": "/usr/bin/c++  -I/home/sl4623/advanced-programming-assessment-1-acse-sl4623/headers -g -std=gnu++11 -o CMakeFiles/story.dir/code/Monster.cpp.o -c /home/sl4623/advanced-programming-assessment-1-acse-sl4623/code/Monster.cpp",
+  "file": "/home/sl4623/advanced-programming-assessment-1-acse-sl4623/code/Monster.cpp"
+},
+{
+  "directory": "/home/sl4623/advanced-programming-assessment-1-acse-sl4623/build",
+  "command": "/usr/bin/c++  -I/home/sl4623/advanced-programming-assessment-1-acse-sl4623/headers -g -std=gnu++11 -o CMakeFiles/story.dir/code/MikeMonster.cpp.o -c /home/sl4623/advanced-programming-assessment-1-acse-sl4623/code/MikeMonster.cpp",
+  "file": "/home/sl4623/advanced-programming-assessment-1-acse-sl4623/code/MikeMonster.cpp"
+},
+{
+  "directory": "/home/sl4623/advanced-programming-assessment-1-acse-sl4623/build",
+  "command": "/usr/bin/c++  -I/home/sl4623/advanced-programming-assessment-1-acse-sl4623/headers -g -std=gnu++11 -o CMakeFiles/story.dir/code/SullyMonster.cpp.o -c /home/sl4623/advanced-programming-assessment-1-acse-sl4623/code/SullyMonster.cpp",
+  "file": "/home/sl4623/advanced-programming-assessment-1-acse-sl4623/code/SullyMonster.cpp"
+},
+{
+  "directory": "/home/sl4623/advanced-programming-assessment-1-acse-sl4623/build",
+  "command": "/usr/bin/c++  -I/home/sl4623/advanced-programming-assessment-1-acse-sl4623/headers -g -std=gnu++11 -o CMakeFiles/story.dir/code/RandallMonster.cpp.o -c /home/sl4623/advanced-programming-assessment-1-acse-sl4623/code/RandallMonster.cpp",
+  "file": "/home/sl4623/advanced-programming-assessment-1-acse-sl4623/code/RandallMonster.cpp"
+},
+{
+  "directory": "/home/sl4623/advanced-programming-assessment-1-acse-sl4623/build",
+  "command": "/usr/bin/c++  -I/home/sl4623/advanced-programming-assessment-1-acse-sl4623/headers -g -std=gnu++11 -o CMakeFiles/story.dir/code/Boo.cpp.o -c /home/sl4623/advanced-programming-assessment-1-acse-sl4623/code/Boo.cpp",
+  "file": "/home/sl4623/advanced-programming-assessment-1-acse-sl4623/code/Boo.cpp"
+},
+{
+  "directory": "/home/sl4623/advanced-programming-assessment-1-acse-sl4623/build",
+  "command": "/usr/bin/c++  -I/home/sl4623/advanced-programming-assessment-1-acse-sl4623/headers -g -std=gnu++11 -o CMakeFiles/story.dir/code/Student.cpp.o -c /home/sl4623/advanced-programming-assessment-1-acse-sl4623/code/Student.cpp",
+  "file": "/home/sl4623/advanced-programming-assessment-1-acse-sl4623/code/Student.cpp"
+},
+{
+  "directory": "/home/sl4623/advanced-programming-assessment-1-acse-sl4623/build",
+  "command": "/usr/bin/c++  -I/home/sl4623/advanced-programming-assessment-1-acse-sl4623/headers -g -std=gnu++11 -o CMakeFiles/story.dir/code/MUGraduate.cpp.o -c /home/sl4623/advanced-programming-assessment-1-acse-sl4623/code/MUGraduate.cpp",
+  "file": "/home/sl4623/advanced-programming-assessment-1-acse-sl4623/code/MUGraduate.cpp"
+},
+{
+  "directory": "/home/sl4623/advanced-programming-assessment-1-acse-sl4623/build",
+  "command": "/usr/bin/c++  -I/home/sl4623/advanced-programming-assessment-1-acse-sl4623/headers -g -std=gnu++11 -o CMakeFiles/story.dir/main.cpp.o -c /home/sl4623/advanced-programming-assessment-1-acse-sl4623/main.cpp",
+  "file": "/home/sl4623/advanced-programming-assessment-1-acse-sl4623/main.cpp"
+}
+]

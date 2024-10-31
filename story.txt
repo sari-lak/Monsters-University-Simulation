@@ -1,0 +1,150 @@
+Mike is small, scaly and green.
+He has 1 eye, 2 arms, 2 legs and no tail.
+Mike makes a joke: Why did the monster eat a light bulb? Because he wanted a light snack!
+
+Sully is large, furry and blue.
+He has 2 eyes, 2 arms, 2 legs and a tail.
+Sully growls!!
+
+Randall is medium, scaly and purple.
+He has 2 eyes, 4 arms, 2 legs and a tail.
+Randall turns invisible.
+
+Boo is small, hairless and pink.
+She has 2 eyes, 2 arms, 2 legs and no tail.
+Boo coos !
+
+Creating a stack of books...
+Book pushed onto the stack.
+Book pushed onto the stack.
+Stack 0 created with 2 books.
+
+Creating a stack of books...
+Book pushed onto the stack.
+Book pushed onto the stack.
+Stack 1 created with 2 books.
+
+Creating a stack of books...
+Book pushed onto the stack.
+Stack 2 created with 1 book.
+
+The total number of books in the course is: 5
+Boo is a Human! Rejected for admission to Monsters University. 
+
+Sully has been accepted to Monsters University! 
+Randall has been accepted to Monsters University! 
+Mike has been accepted to Monsters University! 
+
+Sully is now in year 1 at Monsters University.
+Sully is already scary.
+Sully has a natural ability to scare ! Scare ability is worth 2.5 points !
+Sully is a natural Scarer, but lazy, so he'll be a slacker (will read none of the books).
+
+Randall is now in year 1 at Monsters University.
+Randall is already scary.
+Randall has a natural scary feature! Scare ability is now  worth 2 points !
+Randall is a natural Scarer, but he's hardworking, so he'll be an average student (will read some of the books).
+
+Mike is now in year 1 at Monsters University.
+Mike is not scary, he needs to learn to be scary, starts with 0 scare points.
+Mike is not scary, but hardworking, so he'll be a diligent student (will read all the books).
+
+This is the first year at Monsters University.
+----------------------------------------------------------------
+Books in the stack: 'SCARING: A Student's Complete Guide to Scaring Human Children ages 2-11 ' , 'Secrets of the Element of Surprise' .
+
+Sully is learning to be a Scarer.
+Sully did not read any books.
+Sully has passed the 1 year.
+Sully is now in year 2 at Monsters University.
+
+Randall is learning to be a Scarer.
+Randall is reading a new book !
+The book is called Secrets of the Element of Surprise and is written by Monsters University. 
+The book is Red and is a Scaring book with 675 pages. 
+Randall improved scaring ability! Scare ability is now worth 2.5 points!
+Randall finished reading. 
+
+Randall read some (1/2) of the books.
+Randall has passed the 1 year.
+Randall is now in year 2 at Monsters University.
+
+Mike is learning to be a Scarer.
+Mike is reading a new book !
+The book is called SCARING: A Student's Complete Guide to Scaring Human Children ages 2-11  and is written by Monsters University. 
+The book is blue and is a Scaring book with 847 pages. 
+Mike improved scaring ability! Scare ability is now worth 0.5 points!
+Mike finished reading. 
+
+Mike is reading a new book !
+The book is called Secrets of the Element of Surprise and is written by Monsters University. 
+The book is Red and is a Scaring book with 675 pages. 
+Mike improved scaring ability! Scare ability is now worth 1 point!
+Mike finished reading. 
+
+Mike read all the books.
+Mike has passed the 1 year.
+Mike is now in year 2 at Monsters University.
+
+This is the second year at Monsters University.
+----------------------------------------------------------------
+Books in the stack: 'Scare Techniques and Psychology' , 'Bees, Wolves, Beasts and more' .
+
+Sully is learning to be a Scarer.
+Sully did not read any books.
+Sully has passed the 2 year.
+Sully is now in year 3 at Monsters University.
+
+Randall is learning to be a Scarer.
+Randall is reading a new book !
+The book is called Bees, Wolves, Beasts and more and is written by Monsters University. 
+The book is Green and is a Scaring book with 432 pages. 
+Randall improved scaring ability! Scare ability is now worth 3 points!
+Randall finished reading. 
+
+Randall read some (1/2) of the books.
+Randall has passed the 2 year.
+Randall is now in year 3 at Monsters University.
+
+Mike is learning to be a Scarer.
+Mike is reading a new book !
+The book is called Scare Techniques and Psychology and is written by Monsters University. 
+The book is Blue and is a Scaring book with 512 pages. 
+Mike improved scaring ability! Scare ability is now worth 1.5 points!
+Mike finished reading. 
+
+Mike is reading a new book !
+The book is called Bees, Wolves, Beasts and more and is written by Monsters University. 
+The book is Green and is a Scaring book with 432 pages. 
+Mike improved scaring ability! Scare ability is now worth 2 points!
+Mike finished reading. 
+
+Mike read all the books.
+Mike has passed the 2 year.
+Mike is now in year 3 at Monsters University.
+
+This is the third year at Monsters University.
+----------------------------------------------------------------
+Books in the stack: 'The Rustling Whisper' .
+
+Sully is learning to be a Scarer.
+Sully did not read any books.
+Sorry, Sully, you did not pass your final year.
+
+Randall is learning to be a Scarer.
+Randall did not read any books.
+Congratulations, Randall, you finished all 3 years!
+
+Mike is learning to be a Scarer.
+Mike is reading a new book !
+The book is called The Rustling Whisper and is written by Monsters University. 
+The book is Yellow and is a Scaring book with 321 pages. 
+Mike improved scaring ability! Scare ability is now worth 2.5 points!
+Mike finished reading. 
+
+Mike read all the books.
+Sorry, Mike, you did not pass your final year.
+
+Sorry, Sully, you cannot graduate from MU University. Don't worry, they're always hiring in the Mail Room. 
+Congratulations, Randall, you are now a Scarer!
+Sorry, Mike, you cannot graduate from MU University. Don't worry, they're always hiring in the Mail Room. 

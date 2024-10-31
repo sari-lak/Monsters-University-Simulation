@@ -1,0 +1,12 @@
+Initial class structure draft: https://chat.openai.com/share/aa2c2f5c-91a9-46bd-8bb7-8fa25421de4d
+Class Inheritance: https://chat.openai.com/share/2832a98e-3898-4f64-bf77-fd9f64c4901c
+MUGraduate: https://chat.openai.com/share/f87e79ee-f5f9-4a7d-897b-3d45c5250fd3
+Forward Definition of Student Class in Monster.h: https://chat.openai.com/share/2e8cf009-6bf4-4237-b441-1df60dd6ddbe
+Modifying abilities in place: https://chat.openai.com/share/1083fcd6-1424-4a25-bc1f-5e4301bb426a
+Helper function implementations: https://chat.openai.com/share/8324a33c-7808-4507-ad93-d2cfd326b8dc
+Utility function enumToString: https://chat.openai.com/share/d0944e76-d34d-46e1-aeb5-b387946c803f
+CourseStructure class implementation: https://chat.openai.com/share/cbcd4d31-1a4c-4489-9195-eab15c3d66a0
+CMake file: https://chat.openai.com/share/0a6722d5-7f36-428a-947d-535f31df4300
+
+In addition Copilot was used throughhout this project.
+Notably the Copilot command /doc was used to generate all the function doc strings.
