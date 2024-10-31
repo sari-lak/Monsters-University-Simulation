@@ -1,1 +1,3 @@
-[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-24ddc0f5d75046c5622901739e7c5dd533143b0c8e959d652212380cedb1ea36.svg)](https://classroom.github.com/a/NvjFRAHf)
+Monsters University Simulation is a random-based simulation of the graduation journey of the Monsters University characters based on their embedded characteristics.
+
+By compiling the main.cpp file the simulation is run based on core assumptions explained in the simulation report (.pdf) and schematic (.jpeg).
